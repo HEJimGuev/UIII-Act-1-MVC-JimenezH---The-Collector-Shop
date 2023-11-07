@@ -31,7 +31,7 @@ class EmpleadoController{
         $alm = new Empleado();
         
         $alm->idempleado = $_REQUEST['idempleado'];
-        $alm->nombre = $_REQUEST['Nombre'];
+        $alm->nombre = $_REQUEST['nombre'];
         $alm->app = $_REQUEST['app'];
         $alm->apm = $_REQUEST['apm'];
         $alm->fecha_nmto = $_REQUEST['FechaNacimiento'];
