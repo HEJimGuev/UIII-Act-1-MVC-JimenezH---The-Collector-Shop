@@ -1,1 +1,4 @@
-# UIII-Act-1-MVC-JimenezH---The-Collector-Shop
+# Empresa The Collector Shop
+## Haydee Esmeralda Jimenez Guevara
+### Tabla Empleado
+### Base de Datos en phpmyadmin
