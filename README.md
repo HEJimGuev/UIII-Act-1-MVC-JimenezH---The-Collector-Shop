@@ -11,6 +11,7 @@
 ![image](https://github.com/HEJimGuev/UIII-Act-1-MVC-JimenezH---The-Collector-Shop/assets/143548108/217fa474-6924-4f2d-81da-6f01481efa96)
 ### EDITAR REGISTRO
 ![image](https://github.com/HEJimGuev/UIII-Act-1-MVC-JimenezH---The-Collector-Shop/assets/143548108/8f02e164-37bc-4579-bedc-3786540afe9e)
+![image](https://github.com/HEJimGuev/UIII-Act-1-MVC-JimenezH---The-Collector-Shop/assets/143548108/224eae62-1dd1-4b6a-902f-23fd40a8cbde)
 
 
 
