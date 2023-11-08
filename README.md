@@ -8,6 +8,7 @@
 ### NUEVO REGISTRO
 ![image](https://github.com/HEJimGuev/UIII-Act-1-MVC-JimenezH---The-Collector-Shop/assets/143548108/204e9dfb-38e1-4972-a16a-d2c893f635fc)
 ![image](https://github.com/HEJimGuev/UIII-Act-1-MVC-JimenezH---The-Collector-Shop/assets/143548108/98121ec0-c9e5-422a-be01-c456776acaa3)
+![image](https://github.com/HEJimGuev/UIII-Act-1-MVC-JimenezH---The-Collector-Shop/assets/143548108/217fa474-6924-4f2d-81da-6f01481efa96)
 
 
 
